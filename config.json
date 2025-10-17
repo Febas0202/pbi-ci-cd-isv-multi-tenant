@@ -3,7 +3,7 @@
         "spnSecret": "DEV",
         "capacity": "none",
         "workspace": "AdventureWorks_DEV",
-        "adminUPNs": "07221ea-5255-4d53-a7fc-31eb9c72374e",
+        "adminUPNs": "a07221ea-5255-4d53-a7fc-31eb9c72374e",
         "semanticModelsParameters": {
             "SqlServerInstance": "BOOK-PROIJR07F2",
             "SqlServerDatabase": "AdventureWorksDW-DEV"
@@ -13,7 +13,7 @@
         "spnSecret": "STG",
         "capacity": "none",
         "workspace": "AdventureWorks_STG",
-        "adminUPNs": "07221ea-5255-4d53-a7fc-31eb9c72374e",
+        "adminUPNs": "a07221ea-5255-4d53-a7fc-31eb9c72374e",
         "semanticModelsParameters": {
             "SqlServerInstance": "BOOK-PROIJR07F2",
             "SqlServerDatabase": "AdventureWorksDW-PRD"
@@ -23,7 +23,7 @@
         "spnSecret": "PRD",
         "capacity": "none",
         "workspace": "AdventureWorks_PRD",
-        "adminUPNs": "07221ea-5255-4d53-a7fc-31eb9c72374e",
+        "adminUPNs": "a07221ea-5255-4d53-a7fc-31eb9c72374e",
         "semanticModelsParameters": {
             "SqlServerInstance": "BOOK-PROIJR07F2",
             "SqlServerDatabase": "AdventureWorksDW-PRD"
