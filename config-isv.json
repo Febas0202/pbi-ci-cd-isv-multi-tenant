@@ -1,6 +1,6 @@
 {
     "TENANT_A": {
-        "spnSecret": "ISV_TENANT",
+        "spnSecret": "ISV_TENANT_A",
         "capacity": "none",
         "workspace": "AdventureWorks_NorthAmerica",
         "adminUPNs": "07221ea-5255-4d53-a7fc-31eb9c72374e",
@@ -8,6 +8,25 @@
             "SqlServerInstance": "BOOK-PROIJR07F2",
             "SqlServerDatabase": "AdventureWorksDW-NorthAmerica"
         }
+    },
+    "TENANT_B": {
+        "spnSecret": "ISV_TENANT_B",
+        "capacity": "none",
+        "workspace": "AdventureWorks_Europe",
+        "adminUPNs": "07221ea-5255-4d53-a7fc-31eb9c72374e",
+        "semanticModelsParameters": {
+            "SqlServerInstance": "BOOK-PROIJR07F2",
+            "SqlServerDatabase": "AdventureWorksDW-Europe"
+        }
+    },
+    "TENANT_C": {
+        "spnSecret": "ISV_TENANT_C",
+        "capacity": "none",
+        "workspace": "AdventureWorks_Oceania",
+        "adminUPNs": "07221ea-5255-4d53-a7fc-31eb9c72374e",
+        "semanticModelsParameters": {
+            "SqlServerInstance": "BOOK-PROIJR07F2",
+            "SqlServerDatabase": "AdventureWorksDW-Pacific"
+        }
     }
-
 }
